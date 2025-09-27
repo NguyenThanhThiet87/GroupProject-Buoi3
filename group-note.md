@@ -1,1 +1,2 @@
-add file group-note của Trân
+Add file group-note.md của Cử
+
