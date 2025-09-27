@@ -1,1 +1,2 @@
-add file group-note cua thiệt
+Add file group-note.md của Cử
+
